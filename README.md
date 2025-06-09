@@ -1,4 +1,3 @@
-# Flipkart
 <blockquote> <h3> Project Title </h3> </blockquote>
 <h1 style = 'color:#0C73D1;' >  Flipkart Sales Analysis Using SQL </h1>
 <h3> Summary: </h3>
